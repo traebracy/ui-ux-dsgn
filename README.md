@@ -22,7 +22,7 @@ it helps you,
 
 -- approach solutions to problems effectively 
 
--- learn empathy 
+-- empathize  
 
 ## Design Thinking
 
