@@ -34,21 +34,20 @@ empathize: research to develop knowledge about what users do, think, and feel.
 
 define: synthesize findings to identify core issues. 
 
-ideate: generate a range of creative solutions that address user needs. 
+ideate: create a range of creative solutions that address user needs. 
 
+prototype: build simple versions to explore what works & what doesent.  
 
+test: let user's try out the final version and verify if it achieves your goals. 
 
-prototype: 
+implement: polish and deliver the final version as the solution for users. 
 
-test: 
-
-implement: 
 -------
 
 
 
 
-
+-- in progress sorry not completely finished. 
 
 
 
