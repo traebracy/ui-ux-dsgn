@@ -4,7 +4,7 @@
 
 This repository is focused on improving my ability to think like a dev, & designer. 
 
-This repository is focused on learning and practicing **UI/UX design** 
+This repository is focused on learning and practicing **"UI/UX-design"** 
 
 UI/UX design is about creating digitial products for users that are not only visually clean, but also easy and useful to use. 
 
@@ -26,9 +26,9 @@ it helps you,
 
 ## Design Thinking
 
-a user-centered approach to problem-solving that drives innovation in a 6-step process. 
+**design-thinking"** is a user-centered approach to problem-solving that drives innovation in a 6-step process. 
 
-**the golden rule** 
+(think of the golden rule)
 
 empathize: research to develop knowledge about what users do, think, and feel. 
 
@@ -47,10 +47,7 @@ implement: polish and deliver the final version as the solution for users.
 
 
 
--- in progress sorry not completely finished. 
-
-
-
+-- in progress sorry not completely finished, right now im working on other repo's that talk about forking/cloning and pulling/merging because I realized that there was a lot that I missed. 
 
 
 As a computer science student, I want to understand how to build software that is functional, organized, and user-friendly. This repository helps me practice creating designs that are simple, clear, and intentional.
