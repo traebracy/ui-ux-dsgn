@@ -42,6 +42,9 @@ test: let user's try out the final version and verify if it achieves your goals.
 
 implement: polish and deliver the final version as the solution for users. 
 
+tip, attempt to think about these steps not like a checklist and more like a guide to help you think more like a designer. 
+
+AI- generated design is great, but thoughtful human-centered work is what gives products a heartbeat. 
 -------
 
 
