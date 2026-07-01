@@ -89,6 +89,38 @@ Wireframes help turn ideas into a clear visual plan.
 
 ---
 
+## Fidelity
+
+**Fidelity** describes how detailed or polished a design is.
+
+A design can be **low-fidelity** or **high-fidelity**.
+
+**Low-fidelity** designs are simple and focus on structure.
+
+Examples:
+
+* Sketches
+* Basic wireframes
+* Rough layouts
+
+**High-fidelity** designs are more detailed and closer to the final product.
+
+Examples:
+
+* Detailed mockups
+* Real colors
+* Final fonts
+* Images
+* Interactive prototypes
+
+Fidelity is important because it helps designers choose the right level of detail depending on where they are in the design process.
+
+Example:
+
+> A wireframe is usually low-fidelity, while a mockup is usually high-fidelity.
+
+---
+
 ## Mockups
 
 **Mockups** are more polished versions of wireframes.
