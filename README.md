@@ -8,6 +8,8 @@ UI/UX design is about creating digitial products for users that are not only vis
 
 -- **UX** stands for **User Experience** how things work. 
 
+- take a look at the "ui-ux-design img."
+
 It's easier to think of UI skills as a subset of UX, where they work together to create experiences an **img** is provided to represent this. 
 
 ## Why Learn UI/UX? 
@@ -23,6 +25,8 @@ it helps you,
 ## Design Thinking
 
 **design-thinking"** is a user-centered approach to problem-solving that drives innovation in a 6-step process. 
+
+- take a loog at the "design thinking img."
 
 empathize - research to develop knowledge about what users do, think, and feel. 
 
