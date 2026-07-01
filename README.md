@@ -24,19 +24,21 @@ it helps you,
 
 **design-thinking"** is a user-centered approach to problem-solving that drives innovation in a 6-step process. 
 
-empathize: research to develop knowledge about what users do, think, and feel. 
+empathize - research to develop knowledge about what users do, think, and feel. 
 
-define: synthesize findings to identify core issues. 
+define - synthesize findings to identify core issues. 
 
-ideate: create a range of creative solutions that address user needs. 
+ideate - create a range of creative solutions that address user needs. 
 
-- take a look at the "how might we...? formula"
+- take a look at the "how might we...? formula img."
 
-prototype: build simple versions to explore what works & what doesent.  
+prototype - build simple versions to explore what works & what doesent.  
 
-test: let user's try out the final version and verify if it achieves your goals. 
+- take a look at the "dimensions of a prototype img." 
 
-implement: polish and deliver the final version as the solution for users. 
+test - let user's try out the final version and verify if it achieves your goals. 
+
+implement - polish and deliver the final version as the solution for users. 
 
 ## End Goal 
 
