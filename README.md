@@ -45,10 +45,11 @@ implement: polish and deliver the final version as the solution for users.
 tip, attempt to think about these steps not like a checklist and more like a guide to help you think more like a designer. 
 
 AI- generated design is great, but thoughtful human-centered work is what gives products a heartbeat. 
+
 -------
 
 
-
+this is all a byproduct of codedex but am reforming it in my voice but will make sure to credit Codedex. 
 
 -- in progress sorry not completely finished, right now im working on other repo's that talk about forking/cloning and pulling/merging because I realized that there was a lot that I missed. 
 
