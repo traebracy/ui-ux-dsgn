@@ -4,6 +4,8 @@ This repository is focused on learning and practicing **UI/UX design**.
 
 UI/UX design is about creating digital products that are visually clean, easy to use, and useful for users.
 
+The linked visuals in this README are from CodeDex and are included as references for the UI/UX concepts I am practicing.
+
 ## What is UI/UX?
 
 **UI** stands for **User Interface**.
@@ -29,6 +31,8 @@ Examples of UX:
 * Accessibility
 
 UI and UX work together to create better digital experiences.
+
+CodeDex visual: [UI/UX relationship](codedex-ui-ux-relationship.png)
 
 ---
 
@@ -59,6 +63,11 @@ The main steps are:
 5. **Test** — let users try it and give feedback.
 6. **Implement** — improve and deliver the final solution.
 
+CodeDex visuals:
+
+* [Design thinking cycle](codedex-design-thinking-cycle.png)
+* [How might we formula](codedex-how-might-we-formula.png)
+
 ---
 
 ## Wireframes
@@ -86,6 +95,8 @@ For a study app, a wireframe might show:
 * A button to add a new assignment
 
 Wireframes help turn ideas into a clear visual plan.
+
+CodeDex visual: [desktop and mobile wireframe example](codedex-desktop-mobile-wireframe.png)
 
 ---
 
@@ -119,6 +130,8 @@ Example:
 
 > A wireframe is usually low-fidelity, while a mockup is usually high-fidelity.
 
+CodeDex visual: [low, mid, and high fidelity example](codedex-low-mid-high-fidelity.png)
+
 ---
 
 ## Mockups
@@ -138,6 +151,8 @@ Mockups may include:
 
 Mockups help show what the final product could look like before it is fully built.
 
+CodeDex visual: [prototype dimensions](codedex-prototype-dimensions.png)
+
 ---
 
 ## User Flow
@@ -149,6 +164,11 @@ Example:
 > Open app → View dashboard → Add assignment → Set due date → Save task
 
 User flows are important because they help designers understand how users move through a product step by step.
+
+CodeDex visuals:
+
+* [user flow diagram](codedex-user-flow-diagram.png)
+* [MovieBox review flow](codedex-moviebox-review-flow.png)
 
 ---
 
@@ -212,6 +232,12 @@ Example:
 Example:
 
 > A notes app is usable if users can quickly understand how to create and organize notes.
+
+---
+
+## Credit
+
+Credit to CodeDex for the UI/UX example visuals linked throughout this README. I am using them here to organize my notes and connect each image to the concept it explains.
 
 ---
 
